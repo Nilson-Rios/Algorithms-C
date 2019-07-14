@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1563063199 source:c:\users\nilson rios\desktop\udemy\logicaloperatoror-project\main.c
+	<stdio.h>
+	<stdlib.h>
+
